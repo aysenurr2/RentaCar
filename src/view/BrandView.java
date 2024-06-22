@@ -44,3 +44,4 @@ public class BrandView extends Layout{
         });
     }
 }
+//yeni ekleme
